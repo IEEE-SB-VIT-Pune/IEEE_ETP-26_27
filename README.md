@@ -1,2 +1,2 @@
 # IEEE_ETP-26_27
-all content regarding ETP are present here. 
+all resourse's regarding ETP are present here. 
